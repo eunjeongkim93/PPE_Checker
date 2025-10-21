@@ -1,2 +1,2 @@
-# Safety-Inspection
+# PPE_Checker
 MS AI 교육 MVP 프로젝트 제출용
