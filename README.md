@@ -19,21 +19,12 @@
 2. 프로젝트 구조
       
    mvp_ppe_checker/
-   
       ├── app.py                      # Streamlit 앱 진입점
-      
       ├── ppe_detector.py            # 이미지 분석 (YOLO 모델 사용)
-      
       ├── azure_gpt.py               # OpenAI GPT API 연동
-      
       ├── utils.py                   # 유틸 함수 (이미지 처리 등)
-      
       ├── requirements.txt
-      
       ├── .streamlit/
-      
       │   └── config.toml
-      
       └── assets/
-      
           └── sample.jpg             # 샘플 이미지
